@@ -31,7 +31,7 @@ Python, pandas, scikit-learn, CatBoost, PyTorch, pytorch-tabnet, imbalanced-lear
 ## Data
 
 * [IBM Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) (\~7,043 rows), `data/Telco-Customer-Churn.csv`
-* Synthetic 1M-row telecom churn dataset, `data/customer\_churn\_1M.csv.gz` (compressed due to size, pandas reads `.gz` files directly, no extra steps needed)
+* [Customer Churn Prediction Dataset: 1M](https://www.kaggle.com/datasets/isandeep06/customer-churn-prediction-dataset-1m) (synthetic, 1M rows), `data/customer\_churn\_1M.csv.gz` (compressed due to size, pandas reads `.gz` files directly, no extra steps needed)
 
 ## Key results
 
